@@ -1,0 +1,4 @@
+C:/Users/denis/Securitate Software/ServerFTP/cmake-build-debug/CMakeFiles/ServerFTP.dir
+C:/Users/denis/Securitate Software/ServerFTP/cmake-build-debug/CMakeFiles/phc-winner-argon2.dir
+C:/Users/denis/Securitate Software/ServerFTP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/denis/Securitate Software/ServerFTP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
