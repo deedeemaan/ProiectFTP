@@ -6,6 +6,8 @@ By default, the server runs on **localhost** and uses **control port 2121** for 
 
 This project uses the argon2 library for password hashing.
 
+This Server was tested with FileZilla client and with my colleauge's client: https://github.com/ViviKulik/Securitate-Software
+
 ### Clone the argon2 git repo to use it in the project
    ```bash
    git clone https://github.com/P-H-C/phc-winner-argon2.git
